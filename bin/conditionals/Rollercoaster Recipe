@@ -1,4 +1,4 @@
-/*******************************************************************************
+/**
 	Rollercoaster 
 
  *    Copyright (c) The League of Amazing Programmers 2013-2017
@@ -11,4 +11,5 @@
 3: If they are 48" or less, tell them they need to grow more first
 
 
-*/
+public static void main(String[] args)
+{
